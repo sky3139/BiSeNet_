@@ -1,0 +1,6 @@
+CamVids/
+checkpoints_18_sgd
+__pycache__
+imgaug
+runs
+dataset/CamVid
